@@ -21,6 +21,32 @@ GEM
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-theme-architect (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-cayman (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-dinky (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-hacker (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-leap-day (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-merlot (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-midnight (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-minimal (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-modernist (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-primer (0.1.7)
+      jekyll (~> 3.3)
+    jekyll-theme-slate (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-tactile (0.0.3)
+      jekyll (~> 3.3)
+    jekyll-theme-time-machine (0.0.3)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -47,6 +73,19 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.4.0)
   jekyll-feed (~> 0.6)
+  jekyll-theme-architect
+  jekyll-theme-cayman
+  jekyll-theme-dinky
+  jekyll-theme-hacker
+  jekyll-theme-leap-day
+  jekyll-theme-merlot
+  jekyll-theme-midnight
+  jekyll-theme-minimal
+  jekyll-theme-modernist
+  jekyll-theme-primer
+  jekyll-theme-slate
+  jekyll-theme-tactile
+  jekyll-theme-time-machine
   minima (~> 2.0)
   tzinfo-data
 
