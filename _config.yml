@@ -24,7 +24,7 @@ github_username:  mmayer
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 gems:
   - jekyll-feed
 exclude:
