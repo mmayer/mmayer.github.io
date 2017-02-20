@@ -1,3 +1,9 @@
+PATH
+  remote: .
+  specs:
+    jekyll-theme-hacker (0.0.3)
+      jekyll (~> 3.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -17,36 +23,8 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-feed (0.9.1)
-      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-theme-architect (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-cayman (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-dinky (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-hacker (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-leap-day (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-merlot (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-midnight (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-minimal (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-modernist (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-primer (0.1.7)
-      jekyll (~> 3.3)
-    jekyll-theme-slate (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-tactile (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-time-machine (0.0.3)
-      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -55,8 +33,6 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    minima (2.1.0)
-      jekyll (~> 3.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
@@ -71,26 +47,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.4.0)
-  jekyll-feed (~> 0.6)
-  jekyll-theme-architect
-  jekyll-theme-cayman
-  jekyll-theme-dinky
-  jekyll-theme-hacker
-  jekyll-theme-leap-day
-  jekyll-theme-merlot
-  jekyll-theme-midnight
-  jekyll-theme-minimal
-  jekyll-theme-modernist
-  jekyll-theme-primer
-  jekyll-theme-slate
-  jekyll-theme-tactile
-  jekyll-theme-time-machine
-  minima (~> 2.0)
-  tzinfo-data
-
-RUBY VERSION
-   ruby 2.3.3p222
+  jekyll-theme-hacker!
 
 BUNDLED WITH
    1.14.4
