@@ -14,4 +14,4 @@ systems, with a tiny bit of MIPS thrown in for good measure.
 
 * * *
 
-&copy; 2017
+&copy; 2019
