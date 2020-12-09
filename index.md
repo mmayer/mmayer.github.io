@@ -9,8 +9,9 @@ but now I live in Metro Vancouver, British Columbia, Canada. You can find me
 on [LinkedIn](http://ca.linkedin.com/in/mmayer/) and
 [GitHub](http://github.com/mmayer/).
 
-Currently, I primarily work on the Linux kernel for ARM-based embedded
-systems, with a tiny bit of MIPS thrown in for good measure.
+I am working on the Linux kernel for ARM-based embedded systems, with a tiny bit
+of MIPS thrown in for good measure. As of late, I have also been doing quite a
+bit of work with [Buildroot](https://www.buildroot.org).
 
 * * *
 
