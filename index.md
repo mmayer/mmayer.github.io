@@ -4,9 +4,10 @@ layout: default
 
 # Welcome!
 
-This is Markus Mayer&#8217;s site. I grew up in Austria near Vienna, but now I
-live in [Metro Vancouver](https://en.wikipedia.org/wiki/Greater_Vancouver),
-British Columbia, Canada. You can find me on
+This is Markus Mayer&#8217;s site. I grew up in
+[Austria](https://en.wikipedia.org/wiki/Austria) near Vienna, but now I live
+in the [Fraser Valley](https://en.wikipedia.org/wiki/Fraser_Valley), British
+Columbia, Canada. You can find me on
 [LinkedIn](https://ca.linkedin.com/in/mmayer/) and
 [GitHub](https://github.com/mmayer/).
 
