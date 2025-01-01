@@ -18,4 +18,4 @@ late, I have also been doing quite a bit of work with
 
 * * *
 
-&copy; 2024
+&copy; 2025
